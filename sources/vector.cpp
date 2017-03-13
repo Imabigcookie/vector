@@ -47,4 +47,8 @@ auto vector_t::size() const noexcept -> unsigned int
 	return size_;
 }
 
+auto vector_t::push_back(int value) -> void
+{
+   
+}
 
